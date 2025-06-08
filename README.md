@@ -31,7 +31,7 @@ Projeto desenvolvido para comparar cartas de estados brasileiros usando atributo
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/super-trunfo-c.git
+git clone https://github.com/lopesmauro/super-trunfo-c.git
 cd super-trunfo-c
 ```
 
